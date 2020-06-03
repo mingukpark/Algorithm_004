@@ -36,6 +36,7 @@
 
 
 4. Images and corresponding probability that predicted Right
+
   ![model1_p](https://user-images.githubusercontent.com/65910543/83597749-0926a000-a5a3-11ea-9bae-562c0cf2e4be.PNG)
   ![model2_p](https://user-images.githubusercontent.com/65910543/83597753-0af06380-a5a3-11ea-89bc-9dd4225da8cd.PNG)
   ![model3_p](https://user-images.githubusercontent.com/65910543/83597758-0cba2700-a5a3-11ea-98b5-b06552ace1e2.PNG)
