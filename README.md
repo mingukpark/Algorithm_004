@@ -6,6 +6,7 @@
 
 
 2.Training with Training loss
+
   (1) Model 1(3 layers)
 
   ![model1_epoch](https://user-images.githubusercontent.com/65910543/83597542-8a316780-a5a2-11ea-8d8a-123909975b83.PNG)
@@ -20,6 +21,7 @@
 
 
 3. Test Accuracy
+
   (1) Model 1(3 layers)
 
   ![model1_accuracy](https://user-images.githubusercontent.com/65910543/83597632-c369d780-a5a2-11ea-9112-c4c1520e0ee0.PNG)
@@ -40,6 +42,7 @@
 
 
 5. Images and corresponding probability that predicted Wrong
+
   (1) Model 1(3 layers)
 
   ![model1_err](https://user-images.githubusercontent.com/65910543/83597812-1f346080-a5a3-11ea-929d-5a9715d2a79d.PNG)
